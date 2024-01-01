@@ -1424,6 +1424,3 @@ function PlusNero:Mobile(title,theme,closebind)
 end
 return tabs
 end
-
-
-return PlusNero
